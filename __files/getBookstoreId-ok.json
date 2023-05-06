@@ -1,0 +1,10 @@
+{
+  "id": 10,
+  "name": "Libreria Por ID",
+  "city": "Zaragoza",
+  "zipCode": "50410",
+  "phoneNumber": "615615615",
+  "open": "9:00",
+  "close": "19:00"
+}
+

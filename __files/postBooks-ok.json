@@ -1,0 +1,25 @@
+{
+   "id": 36,
+   "name": "Prueba",
+   "yearEdition": 1960,
+   "ageRecommended": "otro",
+   "pagesNumber": 0,
+   "description": "lkf",
+   "ebook": false,
+   "bookPublisher": {
+      "id": 1,
+      "name": "final",
+      "city": "0000",
+      "zipCode": "12345",
+      "phoneNumber": "666555444",
+      "description": "blablablablablabla"
+   },
+   "bookWriter": {
+      "id": 2,
+      "name": "final",
+      "description": "j@j.com",
+      "age": "15",
+      "socialNetworks": "https://docs.google.com/document/d/1t4WLLha1oTtjA0Nc8qDxJEWZM0patsZm/edit",
+      "reviews": 4.1
+   }
+}

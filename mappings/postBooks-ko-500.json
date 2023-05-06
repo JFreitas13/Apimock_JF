@@ -1,0 +1,14 @@
+{
+  "priority": 2,
+  "request": {
+    "method": "POST",
+    "url": "/books/1/500"
+  },
+  "response": {
+    "status": 500,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "postBooks-ko-500.json"
+  }
+}

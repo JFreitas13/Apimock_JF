@@ -1,0 +1,21 @@
+[
+  {
+    "id": 4,
+    "name": "Libreria Primera",
+    "city": "Zaragoza",
+    "zipCode": "50410",
+    "phoneNumber": "615615615",
+    "open": "9:00",
+    "close": "19:00"
+  },
+
+  {
+    "id": 5,
+    "name": "Libreria Segunda",
+    "city": "Zaragoza",
+    "zipCode": "50410",
+    "phoneNumber": "615615615",
+    "open": "9:00",
+    "close": "19:00"
+  }
+]

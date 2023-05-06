@@ -1,0 +1,14 @@
+{
+  "priority": 2,
+  "request": {
+    "method": "PUT",
+    "urlPattern": "/books/404/1/2"
+  },
+  "response": {
+    "status": 404,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "putBooks-ko-404.json"
+  }
+}

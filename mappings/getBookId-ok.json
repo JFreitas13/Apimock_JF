@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/books/10"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "getBookId-ok.json"
+  }
+}

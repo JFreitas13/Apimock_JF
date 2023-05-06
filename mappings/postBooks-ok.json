@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/books/1/2"
+  },
+  "response": {
+    "status": 201,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "postBooks-ok.json"
+  }
+}

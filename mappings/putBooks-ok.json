@@ -1,0 +1,14 @@
+{
+  "priority": 3,
+  "request": {
+    "method": "PUT",
+    "url": "/books/5/1/2"
+  },
+  "response": {
+    "status": 201,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "putBooks-ok.json"
+  }
+}

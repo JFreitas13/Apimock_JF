@@ -1,0 +1,14 @@
+{
+  "priority": 2,
+  "request": {
+    "method": "PUT",
+    "urlPattern": "/books/500/1/2"
+  },
+  "response": {
+    "status": 500,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "putBooks-ko-500.json"
+  }
+}

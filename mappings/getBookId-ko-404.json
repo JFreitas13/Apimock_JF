@@ -1,0 +1,14 @@
+{
+  "priority": 2,
+  "request": {
+    "method": "GET",
+    "url": "/books/404"
+  },
+  "response": {
+    "status": 404,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "getBookId-ko-404.json"
+  }
+}
