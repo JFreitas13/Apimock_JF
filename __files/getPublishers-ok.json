@@ -1,0 +1,19 @@
+[
+  {
+    "id": 33,
+    "name": "Editoral Primera",
+    "city": "Zaragoza",
+    "zipCode": "50410",
+    "phoneNumber": "615615615",
+    "description": "Editora especializada en libros de mágia."
+  },
+
+  {
+    "id": 44,
+    "name": "Editoral Segunda",
+    "city": "Zaragoza",
+    "zipCode": "50410",
+    "phoneNumber": "615615615",
+    "description": "Editora especializada en libros de mágia."
+  }
+]
