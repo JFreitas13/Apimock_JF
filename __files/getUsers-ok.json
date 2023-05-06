@@ -1,0 +1,23 @@
+[
+  {
+    "id": 88,
+    "name": "Manuel Silva",
+    "email": "ms456@gm.com",
+    "password": "12345678",
+    "phoneNumber": "615615615",
+    "city": "Zaragoza",
+    "zipCode": "50410",
+    "rol": "50410"
+  },
+
+  {
+    "id": 66,
+    "name": "Antonia Gomez",
+    "email": "gomez@gm.com",
+    "password": "12345678",
+    "phoneNumber": "123654987",
+    "city": "Zaragoza",
+    "zipCode": "50410",
+    "rol": "50410"
+  }
+]
