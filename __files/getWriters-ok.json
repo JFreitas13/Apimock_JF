@@ -1,0 +1,19 @@
+[
+  {
+    "id": 6,
+    "name": "Pepito Manuel",
+    "description": "Escritor de libros de magia.",
+    "age": "45",
+    "socialNetworks": "www.twitter.com/pepitomanuel",
+    "reviews": "4,5"
+  },
+
+  {
+    "id": 7,
+    "name": "Maria Antonia",
+    "description": "Escritor de pociones.",
+    "age": "55",
+    "socialNetworks": "www.twitter.com/mariaantonia",
+    "reviews": "4,9"
+  }
+]

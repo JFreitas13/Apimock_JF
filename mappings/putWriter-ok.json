@@ -1,0 +1,14 @@
+{
+  "priority": 3,
+  "request": {
+    "method": "PUT",
+    "url": "/writers/6"
+  },
+  "response": {
+    "status": 201,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "putWriter-ok.json"
+  }
+}

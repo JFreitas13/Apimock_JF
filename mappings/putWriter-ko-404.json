@@ -1,0 +1,14 @@
+{
+  "priority": 2,
+  "request": {
+    "method": "PUT",
+    "urlPattern": "/writers/404"
+  },
+  "response": {
+    "status": 404,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "putWriter-ko-404.json"
+  }
+}

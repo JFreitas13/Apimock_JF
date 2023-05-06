@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/writers/6"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "getWriterId-ok.json"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/writers"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "getWriters-ok.json"
+  }
+}

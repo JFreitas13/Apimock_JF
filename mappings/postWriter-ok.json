@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/writers"
+  },
+  "response": {
+    "status": 201,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "postWriter-ok.json"
+  }
+}
