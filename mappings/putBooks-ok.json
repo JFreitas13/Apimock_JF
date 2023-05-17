@@ -5,7 +5,7 @@
     "url": "/books/5/1/2"
   },
   "response": {
-    "status": 201,
+    "status": 200,
     "headers": {
       "Content-Type": "application/json"
     },

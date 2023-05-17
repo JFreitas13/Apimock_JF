@@ -2,7 +2,7 @@
   "priority": 2,
   "request": {
     "method": "PUT",
-    "urlPattern": "/books/500/1/2"
+    "urlPattern": "/books/500"
   },
   "response": {
     "status": 500,

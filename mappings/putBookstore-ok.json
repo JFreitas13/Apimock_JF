@@ -5,7 +5,7 @@
     "url": "/bookstores/13"
   },
   "response": {
-    "status": 201,
+    "status": 200,
     "headers": {
       "Content-Type": "application/json"
     },

@@ -279,15 +279,13 @@
 					}
 				},
 				"url": {
-					"raw": "{{path}}{{host}}{{port}}/books/5/1/2",
+					"raw": "{{path}}{{host}}{{port}}/books/5",
 					"host": [
 						"{{path}}{{host}}{{port}}"
 					],
 					"path": [
 						"books",
-						"5",
-						"1",
-						"2"
+						"5"
 					]
 				}
 			},
@@ -308,15 +306,13 @@
 					}
 				},
 				"url": {
-					"raw": "{{path}}{{host}}{{port}}/books/404/1/2",
+					"raw": "{{path}}{{host}}{{port}}/books/404",
 					"host": [
 						"{{path}}{{host}}{{port}}"
 					],
 					"path": [
 						"books",
-						"404",
-						"1",
-						"2"
+						"404"
 					]
 				}
 			},
@@ -337,15 +333,13 @@
 					}
 				},
 				"url": {
-					"raw": "{{path}}{{host}}{{port}}/books/500/1/2",
+					"raw": "{{path}}{{host}}{{port}}/books/500",
 					"host": [
 						"{{path}}{{host}}{{port}}"
 					],
 					"path": [
 						"books",
-						"500",
-						"1",
-						"2"
+						"500"
 					]
 				}
 			},
